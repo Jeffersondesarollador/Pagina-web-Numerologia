@@ -1,10 +1,10 @@
-# 🔮 Numerología App - Portal Místico & Suscripciones Premium
+#  Numerología App - Portal Místico & Suscripciones Premium
 
 Aplicación Full-Stack diseñada para ofrecer lecturas numerológicas personalizadas mediante Inteligencia Artificial (Google Gemini). El sistema incluye una pasarela de pagos automatizada para usuarios Premium, un motor de *scraping* para resultados de lotería y un sistema de notificaciones automatizadas por correo electrónico.
 
 ---
 
-## 🛠️ Tecnologías Principales
+##  Tecnologías Principales
 
 * **Frontend:** Vue 3 (Vite), Quasar Framework, Pinia, Axios.
 * **Backend:** Node.js, Express, MongoDB (Mongoose).
@@ -13,11 +13,11 @@ Aplicación Full-Stack diseñada para ofrecer lecturas numerológicas personaliz
 
 ---
 
-## 📂 Estructura del Proyecto
+##  Estructura del Proyecto
 
 El proyecto sigue una arquitectura desacoplada con una clara separación de responsabilidades entre el cliente y el servidor.
 
-### 🎨 Frontend (`numerologia-frontend`)
+###  Frontend (`numerologia-frontend`)
 Interfaz moderna y reactiva con diseño "Cosmic".
 * `src/assets/`: Recursos estáticos (logotipos y vectores SVG).
 * `src/components/`: Componentes reutilizables y elementos de diseño personalizados (inputs y botones místicos).
@@ -48,7 +48,7 @@ API RESTful robusta y escalable.
 
 ---
 
-## 🚀 Instalación Rápida
+##  Instalación Rápida
 
 1.  **Clonar:** `git clone https://github.com/tu-usuario/nombre-repo.git`
 2.  **Backend:** * `cd backend && npm install`
@@ -67,6 +67,6 @@ La aplicación se encuentra desplegada y operativa en:
 
 ---
 
-## 👤 Autor
+##  Autor
 * **Aprendiz SENA ADSO** - *Desarrollo Full-Stack*
-* Colaboradores: Jefferson Rojas, Nathalia Jaimes, Jose Luis Vargas, Jesus Acero.
+* Colaboradores: Jefferson Rojas
